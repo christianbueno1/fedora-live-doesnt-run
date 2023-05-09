@@ -19,7 +19,10 @@ En este caso vamos a modificar el **Fedora Live USB**.
 
 ## Modificar el Fedora Live USB stick.
 
+### Requisitos
 - Necesitamos una computadora con Sistema Operativo Linux.
+- Un Fedora Live USB.
+- Tener permisos de super usuario.
 
 Insertamos el dispositivo usb.
 
