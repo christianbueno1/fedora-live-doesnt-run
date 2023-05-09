@@ -100,3 +100,13 @@ Listo, ahora solo desmontamos **esp**.
 ```bash
 sudo umount esp
 ```
+
+Por ultimo podemos eliminar los archivos y directorio.
+
+- shim.cpio
+- shimdir
+- shim-x64-15.4-5.x86_64.rpm
+
+```bash
+rm -rf shim.cpio shimdir shim-x64-15.4-5.x86_64.rpm
+```
